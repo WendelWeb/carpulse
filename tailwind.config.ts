@@ -2,7 +2,7 @@ import type { Config } from "tailwindcss";
 
 import { fontFamily } from "tailwindcss/defaultTheme"
 import animate from "tailwindcss-animate"
-
+console.log('welcome')
 const config = {
   darkMode: ["class"],
   content: [
